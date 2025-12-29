@@ -1,0 +1,15 @@
+﻿# Terraform files
+.terraform/
+.terraform.lock.hcl
+terraform.tfstate
+terraform.tfstate.backup
+*.tfstate
+*.tfvars
+
+# Local temp files
+*.log
+*.bak
+
+# IDE / Editor folders
+.vscode/
+.idea/
